@@ -1,0 +1,7 @@
+## Interface: 100007
+## Title: Arena Toolkit
+## Notes: Customizes nameplates in arenas.
+## Author: DAEDAE3000
+## Version: 1.0
+ArenaToolkit.lua
+
