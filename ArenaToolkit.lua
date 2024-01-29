@@ -31,7 +31,7 @@ end
 -- Create options panel
 local function CreateOptionsPanel()
     local panel = CreateFrame("Frame", "ArenaToolkitOptionsPanel", InterfaceOptionsFramePanelContainer)
-    panel.name = "Tiny Friendly Health Bars"
+    panel.name = "Arena Toolkit"
     panel:Hide()
 
     local title = panel:CreateFontString(nil, "ARTWORK", "GameFontNormalLarge")
